@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Sondan 1-e\bin\Debug\net6.0\Sondan 1-e.exe
+C:\Users\user\source\repos\Sondan 1-e\bin\Debug\net6.0\Sondan 1-e.deps.json
+C:\Users\user\source\repos\Sondan 1-e\bin\Debug\net6.0\Sondan 1-e.runtimeconfig.json
+C:\Users\user\source\repos\Sondan 1-e\bin\Debug\net6.0\Sondan 1-e.dll
+C:\Users\user\source\repos\Sondan 1-e\bin\Debug\net6.0\Sondan 1-e.pdb
+C:\Users\user\source\repos\Sondan 1-e\obj\Debug\net6.0\Sondan 1-e.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Sondan 1-e\obj\Debug\net6.0\Sondan 1-e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Sondan 1-e\obj\Debug\net6.0\Sondan 1-e.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Sondan 1-e\obj\Debug\net6.0\Sondan 1-e.AssemblyInfo.cs
+C:\Users\user\source\repos\Sondan 1-e\obj\Debug\net6.0\Sondan 1-e.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sondan 1-e\obj\Debug\net6.0\Sondan 1-e.dll
+C:\Users\user\source\repos\Sondan 1-e\obj\Debug\net6.0\refint\Sondan 1-e.dll
+C:\Users\user\source\repos\Sondan 1-e\obj\Debug\net6.0\Sondan 1-e.pdb
+C:\Users\user\source\repos\Sondan 1-e\obj\Debug\net6.0\Sondan 1-e.genruntimeconfig.cache
+C:\Users\user\source\repos\Sondan 1-e\obj\Debug\net6.0\ref\Sondan 1-e.dll
